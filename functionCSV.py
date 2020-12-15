@@ -28,4 +28,6 @@ def function_csv():
             cont.append(content)
     return cont
 
-content = function_csv()
+warhammer40000 = function_csv()
+
+
